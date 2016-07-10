@@ -22,3 +22,9 @@
   description: "Google Developer Group di Bologna."
   url: https://developers.google.com/groups/chapter/108167517038964423068/
   fbpage:
+- title: NodeSchool
+  img: ns.jpg
+  category: Programmazione
+  description: "NodeSchool è una community open source condotta da volontari con gli obiettivi di creare curriculum di programmatori di alta qualità e ospitare eventi di community learning attorno alle tecnologie NodeJs / JavaScript"
+  url: http://nodeschool.io/italy/
+  fbpage:
